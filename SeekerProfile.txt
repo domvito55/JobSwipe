@@ -1,0 +1,84 @@
+ *       example:
+ *         personalInfo:
+ *           firstName: "Clark"
+ *           middleName: "Joseph"
+ *           lastName: "Kent"
+ *           email: "clark.kent@example.com"
+ *           phone: 1234567890
+ *           street: "344 Clinton Street, Apartment 3D"
+ *           city: "Metropolis"
+ *           province: "New York"
+ *           postalCode: "12345"
+ *           country: "United States"
+ *         primarySkills:
+ *           technicalSkills:
+ *             - skillName: "Investigative Research"
+ *               proficiencyLevel: "Expert"
+ *               yearsOfExperience: 89
+ *             - skillName: "News Writing"
+ *               proficiencyLevel: "Advanced"
+ *               yearsOfExperience: 55
+ *             - skillName: "Editing and Proofreading"
+ *               proficiencyLevel: "Expert"
+ *               yearsOfExperience: 34
+ *           transferableSkills:
+ *             - skillName: "Empathy"
+ *               proficiencyLevel: "Advanced"
+ *               yearsOfExperience: 21
+ *             - skillName: "Communication"
+ *               proficiencyLevel: "Advanced"
+ *               yearsOfExperience: 13
+ *             - skillName: "Team Leadership"
+ *               proficiencyLevel: "Expert"
+ *               yearsOfExperience: 8
+ *         secondarySkills
+ *           technicalSkills:
+ *             - skillName: "Video Production"
+ *               proficiencyLevel: "Intermediate"
+ *               yearsOfExperience: 5
+ *             - skillName: "Photojournalism"
+ *               proficiencyLevel: "Intermediate"
+ *               yearsOfExperience: 3
+ *             - skillName: "Data Analysis"
+ *               proficiencyLevel: "Advanced"
+ *               yearsOfExperience: 2
+ *           transferableSkills:
+ *             - skillName: "Time Management"
+ *               proficiencyLevel: "Intermediate"
+ *               yearsOfExperience: 1
+ *             - skillName: "Networking"
+ *               proficiencyLevel: "Intermediate"
+ *               yearsOfExperience: 1
+ *             - skillName: "Curiosity"
+ *               proficiencyLevel: "Beginner"
+ *               yearsOfExperience: 0
+ *         education:
+ *           - levelOfEducation: "Bachelor's Degree"
+ *             institution: "University of Kansas"
+ *             location: "Lawrence"
+ *             gpa: 3.8
+ *             gpaScale: 4.0
+ *             expectedDuration: 4
+ *             startYear: 1989
+ *             endYear: 1993
+ *             technicalSkills:
+ *               - skillName: "Investigative Research"
+ *                 proficiencyLevel: "Expert"
+ *                 yearsOfExperience: 4
+ *               - skillName: "News Writing"
+ *                 proficiencyLevel: "Advanced"
+ *                 yearsOfExperience: 4
+ *               - skillName: "Editing and Proofreading"
+ *                 proficiencyLevel: "Expert"
+ *                 yearsOfExperience: 4
+ *             transferableSkills:
+ *               - skillName: "Empathy"
+ *                 proficiencyLevel: "Advanced"
+ *                 yearsOfExperience: 4
+ *               - skillName: "Communication"
+ *                 proficiencyLevel: "Advanced"
+ *                 yearsOfExperience: 4
+ *               - skillName: "Team Leadership"
+ *                 proficiencyLevel: "Expert"
+ *                 yearsOfExperience: 4
+ *         created_date: "2024-04-27T12:00:00Z"

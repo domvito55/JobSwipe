@@ -1,0 +1,221 @@
+[
+  {
+    "id": "6733c166a76473d0e476ff34",
+    "userId": "6733aec175eb0fba49f14363",
+    "personalInfo": {
+      "firstName": "Tony",
+      "middleName": "Edward",
+      "lastName": "Stark",
+      "email": "tony.stark@starkindustries.com",
+      "phone": {
+        "$numberLong": "5551234567"
+      },
+      "street": "10880 Malibu Point",
+      "city": "Malibu",
+      "province": "California",
+      "postalCode": "90265",
+      "country": "USA"
+    },
+    "primarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "Engineering",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 25,
+          "certified": true
+        },
+        {
+          "skillName": "Artificial Intelligence",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 15,
+          "certified": true
+        },
+        {
+          "skillName": "Materials Science",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 12,
+          "certified": true
+        }
+      ],
+      "transferableSkills": [
+        {
+          "skillName": "Leadership",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 20,
+          "certified": true
+        },
+        {
+          "skillName": "Innovation",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 18,
+          "certified": true
+        },
+        {
+          "skillName": "Project Management",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 15,
+          "certified": true
+        },
+        {
+          "skillName": "Crisis Managementn",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 10,
+          "certified": true
+        },
+        {
+          "skillName": "Public Speaking",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 8,
+          "certified": true
+        }
+      ]
+    },
+    "secondarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "Software Development",
+          "proficiencyLevel": "Intermediate",
+          "yearsOfExperience": 10,
+          "certified": true
+        }
+      ],
+      "transferableSkills": [
+        {
+          "skillName": "Teamwork",
+          "proficiencyLevel": "Intermediate",
+          "yearsOfExperience": 5,
+          "certified": true
+        }
+      ]
+    },
+    "educationList": [
+      {
+        "title": "Master's in Computer Science",
+        "levelOfEducation": "Master's",
+        "fieldOfStudy": "Computer Science",
+        "institution": "MIT",
+        "location": "Massachusetts",
+        "expectedDuration": 24,
+        "startDate": "2000-09-01",
+        "endDate": "2004-06-30",
+        "technicalSkills": [],
+        "transferableSkills": [],
+        "gpa": null,
+        "gpaScale": null
+      }
+    ],
+    "createdDate": "2024-11-13T17:12:20.197923",
+    "skills_extracted": "Engineering Artificial Intelligence Materials Science Leadership Innovation Project Management Crisis Managementn Public Speaking Software Development Teamwork",
+    "updatedDate": "2024-11-13 17:12:20.197923",
+    "areaOfInterest": "Artificial Intelligence1"
+  },
+  {
+    "id": "6733f37d16fcb5b4e545eb4d",
+    "userId": "6733aec975eb0fba49f14364",
+    "personalInfo": {
+      "firstName": "Tony",
+      "middleName": "Edward",
+      "lastName": "Stark",
+      "email": "tony.stark@starkindustries.com",
+      "phone": {
+        "$numberLong": "5551234567"
+      },
+      "street": "10880 Malibu Point",
+      "city": "Malibu",
+      "province": "California",
+      "postalCode": "90265",
+      "country": "USA"
+    },
+    "primarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "Engineering",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 25,
+          "certified": true
+        },
+        {
+          "skillName": "Artificial Intelligence",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 15,
+          "certified": true
+        },
+        {
+          "skillName": "Materials Science",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 12,
+          "certified": true
+        }
+      ],
+      "transferableSkills": [
+        {
+          "skillName": "Leadership",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 20,
+          "certified": true
+        },
+        {
+          "skillName": "Innovation",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 18,
+          "certified": true
+        },
+        {
+          "skillName": "Project Management",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 15,
+          "certified": true
+        },
+        {
+          "skillName": "Crisis Managementn",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 10,
+          "certified": true
+        },
+        {
+          "skillName": "Public Speaking",
+          "proficiencyLevel": "Expert",
+          "yearsOfExperience": 8,
+          "certified": true
+        }
+      ]
+    },
+    "secondarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "Software Development",
+          "proficiencyLevel": "Intermediate",
+          "yearsOfExperience": 10,
+          "certified": true
+        }
+      ],
+      "transferableSkills": [
+        {
+          "skillName": "Teamwork",
+          "proficiencyLevel": "Intermediate",
+          "yearsOfExperience": 5,
+          "certified": true
+        }
+      ]
+    },
+    "educationList": [
+      {
+        "title": "Master's in Computer Science",
+        "levelOfEducation": "Master's",
+        "fieldOfStudy": "Computer Science",
+        "institution": "MIT",
+        "location": "Massachusetts",
+        "expectedDuration": 24,
+        "startDate": "2000-09-01",
+        "endDate": "2004-06-30",
+        "technicalSkills": [],
+        "transferableSkills": [],
+        "gpa": null,
+        "gpaScale": null
+      }
+    ],
+    "createdDate": "2024-11-12T19:31:57.337819",
+    "updatedDate": "2024-11-12T19:31:57.337819",
+    "skills_extracted": "Engineering Artificial Intelligence Materials Science Leadership Innovation Project Management Crisis Managementn Public Speaking Software Development Teamwork"
+  }
+]

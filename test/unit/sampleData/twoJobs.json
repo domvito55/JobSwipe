@@ -1,0 +1,100 @@
+[
+  {
+    "id": "6735a696d6cff11d57b1d95c",
+    "jobTitle": "Digital Marketing Specialist",
+    "jobInfo": {
+      "jobDescription": "Social Media Managers oversee an organizations social media presence. They create and schedule content, engage with followers, and analyze social media metrics to drive brand awareness and engagement.",
+      "email": "digitalmarketingspecialist@example.com",
+      "phone": {
+        "$numberLong": "6272595341"
+      },
+      "city": "Douglas",
+      "postalCode": "33160",
+      "country": "Isle of Man"
+    },
+    "primarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "brand_awareness"
+        },
+        {
+          "skillName": "social_media"
+        },
+        {
+          "skillName": "schedule"
+        }
+      ],
+      "transferableSkills": []
+    },
+    "secondarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "social_medium"
+        },
+        {
+          "skillName": "media_managers"
+        }
+      ],
+      "transferableSkills": []
+    },
+    "updatedDate": "2024-11-12",
+    "createdDate": "2024-11-12",
+    "userId": {
+      "$oid": "6735034250b60baaa4401c0f"
+    }
+  },
+  {
+    "id": "6735a696d6cff11d57b1d95d",
+    "jobTitle": "Web Developer",
+    "jobInfo": {
+      "jobDescription": "Frontend Web Developers design and implement user interfaces for websites, ensuring they are visually appealing and user-friendly. They collaborate with designers and backend developers to create seamless web experiences for users.",
+      "email": "webdeveloper@example.com",
+      "phone": {
+        "$numberLong": "5321184279"
+      },
+      "city": "Ashgabat",
+      "postalCode": "15222",
+      "country": "Turkmenistan"
+    },
+    "primarySkills": {
+      "technicalSkills": [],
+      "transferableSkills": [
+        {
+          "skillName": "web_developers"
+        }
+      ]
+    },
+    "secondarySkills": {
+      "technicalSkills": [
+        {
+          "skillName": "user_interface"
+        },
+        {
+          "skillName": "friendly"
+        },
+        {
+          "skillName": "backend"
+        }
+      ],
+      "transferableSkills": [
+        {
+          "skillName": "web_design"
+        },
+        {
+          "skillName": "visually"
+        },
+        {
+          "skillName": "appealing"
+        },
+        {
+          "skillName": "collaborate"
+        }
+      ]
+    },
+    "updatedDate": "2024-11-12",
+    "createdDate": "2024-11-12",
+    "userId": {
+      "$oid": "6735034250b60baaa4401c0f"
+    }
+  }
+]

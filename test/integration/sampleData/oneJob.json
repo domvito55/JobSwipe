@@ -1,0 +1,77 @@
+{
+    "userId": "67362770d263ab83366f58aa",
+    "jobTitle":
+        "Software Engineer",
+    "jobInfo": {
+        "jobDescription":
+            "We are looking for a software engineer to join our team.",
+        "email":
+            "job@company.com",
+        "phone":
+            5551234567,
+        "street":
+            "10880 Malibu Point",
+        "city":
+            "Malibu",
+        "province":
+            "California",
+        "postalCode":
+            "90265",
+        "country":
+            "USA"
+    },
+    "primarySkills": {
+        "technicalSkills": [
+            {
+                "skillName": "Engineering",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 25
+            },
+            {
+                "skillName": "Artificial Intelligence",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 15
+            },
+            {
+                "skillName": "Materials Science",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 12
+            }
+        ],
+        "transferableSkills": [{
+            "skillName": "Leadership",
+            "proficiencyLevel": "Expert",
+            "yearsOfExperience": 20
+        }, {
+            "skillName": "Innovation",
+            "proficiencyLevel": "Expert",
+            "yearsOfExperience": 18
+        }, {
+            "skillName": "Project Management",
+            "proficiencyLevel": "Expert",
+            "yearsOfExperience": 15
+        }, {
+            "skillName": "Crisis Managementn",
+            "proficiencyLevel": "Expert",
+            "yearsOfExperience": 10
+        }, {
+            "skillName": "Public Speaking",
+            "proficiencyLevel": "Expert",
+            "yearsOfExperience": 8
+        }]
+    },
+    "secondarySkills": {
+        "technicalSkills": [{
+            "skillName": "Software Development",
+            "proficiencyLevel": "Intermediate",
+            "yearsOfExperience": 10
+        }],
+        "transferableSkills": [{
+            "skillName": "Teamwork",
+            "proficiencyLevel": "Intermediate",
+            "yearsOfExperience": 5
+        }]
+    },
+    "createdDate": "2024-11-12T00:00:00",
+    "updatedDate": "2024-11-12T00:00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "areaOfInterest": "Artificial Intelligence",
+  "educationList": [
+    {
+      "endDate": "2004-06-30",
+      "expectedDuration": 24,
+      "fieldOfStudy": "Computer Science",
+      "institution": "MIT",
+      "levelOfEducation": "Master's",
+      "location": "Massachusetts",
+      "startDate": "2000-09-01",
+      "title": "Master's in Computer Science"
+    }
+  ],
+  "personalInfo": {
+    "city": "Malibu",
+    "country": "USA",
+    "email": "tony.stark@starkindustries.com",
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "middleName": "Edward",
+    "phone": 5551234567,
+    "postalCode": "90265",
+    "province": "California",
+    "street": "10880 Malibu Point"
+  },
+  "primarySkills": {
+    "technicalSkills": [
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Engineering",
+        "yearsOfExperience": 25
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Artificial Intelligence",
+        "yearsOfExperience": 15
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Materials Science",
+        "yearsOfExperience": 12
+      }
+    ],
+    "transferableSkills": [
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Leadership",
+        "yearsOfExperience": 20
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Innovation",
+        "yearsOfExperience": 18
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Project Management",
+        "yearsOfExperience": 15
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Crisis Managementn",
+        "yearsOfExperience": 10
+      },
+      {
+        "certified": true,
+        "proficiencyLevel": "Expert",
+        "skillName": "Public Speaking",
+        "yearsOfExperience": 8
+      }
+    ]
+  },
+  "secondarySkills": {
+    "technicalSkills": [
+      {
+        "certified": true,
+        "proficiencyLevel": "Intermediate",
+        "skillName": "Software Development",
+        "yearsOfExperience": 10
+      }
+    ],
+    "transferableSkills": [
+      {
+        "certified": true,
+        "proficiencyLevel": "Intermediate",
+        "skillName": "Teamwork",
+        "yearsOfExperience": 5
+      }
+    ]
+  },
+  "userId": "67362770d263ab83366f58aa"
+}

@@ -1,0 +1,48 @@
+Version: 3.0  # Specify the CircleCI configuration version
+
+jobs:
+  build:
+    docker:
+      - image: cimg/python:3.11
+    steps:
+      - checkout
+      - setup_remote_docker
+      - run:
+          name: Install Docker client
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y docker-ce
+      - run:
+          name: Install AWS CLI
+          command: |
+            sudo apt-get install -y unzip
+            curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+            unzip awscliv2.zip
+            sudo ./aws/install
+      - run:
+          name: Configure AWS CLI
+          command: |
+            aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
+            aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+            aws configure set default.region $AWS_DEFAULT_REGION
+      - run:
+          name: Verify AWS Credentials
+          command: aws sts get-caller-identity
+      - run:
+          name: Build Docker image
+          command: docker build -t opusswipe55/backend:v1 .
+      - run:
+          name: Push Docker image
+          command: |
+            echo "$DOCKERHUB_PASS" | docker login --username "$DOCKERHUB_USER" --password-stdin
+            docker push opusswipe55/backend:v1
+      - run:
+          name: Update ECS service
+          command: |
+            aws ecs update-service --cluster opus-backend-fargate-cluster --service opus-backend-fargate-service --force-new-deployment --debug
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
